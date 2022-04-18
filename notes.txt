@@ -1,0 +1,13 @@
+https://developers.google.com/drive/api/v3/bout-sdka
+
+
+https://developers.google.com/drive/api/v3/search-files#python
+
+
+
+https://developers.google.com/drive/api/v3/manage-uploads#http---single-request
+
+https://developers.google.com/identity/gsi/web
+
+
+
