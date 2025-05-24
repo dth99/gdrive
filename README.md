@@ -164,4 +164,4 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 * **LinkedIn:** [deepakkumar2o](https://www.linkedin.com/in/deepakkumar2o/)
 * **Email:** [deep99.official@gmail.com](mailto:deep99.official@gmail.com)
 
-Feel free to connect or send any questions!\`\`\`
+Feel free to connect or send any questions!
